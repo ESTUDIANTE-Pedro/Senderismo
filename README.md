@@ -1,4 +1,4 @@
 # Club de Senderismo 
 ## Autor Pedro Sánchez Collado
 ##  Proyecto de prácticas de Git
-### Salidas: sábados a las 9:00.
+### Salidas: sábados a las 8:30.
